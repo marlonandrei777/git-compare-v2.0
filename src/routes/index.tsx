@@ -11,7 +11,9 @@ const Routes: React.FC = () => (
     <BrowserRouter>
         <Switch>
             <Route path="/" exact component={Dashboard} />
-            <Route path="/repository" component={Repository} />
+            {/* o repository recebeu um parametro com o repository dentro
+            o (+) indica q tudo q vem depois do primeiro /repository é esse parâmetro */}
+            <Route path="/repository/:repository+" component={Repository} />
         </Switch>
     </BrowserRouter>
 )
