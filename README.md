@@ -1,5 +1,5 @@
 <h1 align="center">
-   Move.it
+   Github_explorer
 </h1
 
 <br>
