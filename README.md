@@ -12,7 +12,7 @@
 
 ## 💻 Projeto
 
-Aplicação q compara repositórios do github
+Aplicação que compara repositórios do github
 
 ## 🔥 Tecnologias
 
